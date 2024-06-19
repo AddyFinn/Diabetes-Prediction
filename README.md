@@ -29,7 +29,7 @@ The project consists of the following steps:
 
 6. **Conclusion**:
    - Summary of findings and potential areas for improvement.
-   - 
+     
 ## ## Dataset
 
 The dataset (`diabetes.csv`) contains 768 rows and 9 columns.
