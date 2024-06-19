@@ -29,28 +29,7 @@ The project consists of the following steps:
 
 6. **Conclusion**:
    - Summary of findings and potential areas for improvement.
-
-## Getting Started
-
-To run the project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd diabetes-prediction
-   ```
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the notebook:**
-   - **Open diabetes_prediction.ipynb in Jupyter Notebook or JupyterLab.**
-   - **Execute the cells sequentially to reproduce the results.**
-
-## Requirements
-   - Python 3
-   - Libraries listed in requirements.txt
-
+   - 
 ## ## Dataset
 
 The dataset (`diabetes.csv`) contains 768 rows and 9 columns.
