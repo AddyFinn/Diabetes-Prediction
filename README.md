@@ -47,7 +47,7 @@ Columns:
 
 ## Results
 
-The SVM model achieved an accuracy of 0.80 on the test set.
+The SVM model achieved an accuracy of 0.81 on the test set.
 
 
    
